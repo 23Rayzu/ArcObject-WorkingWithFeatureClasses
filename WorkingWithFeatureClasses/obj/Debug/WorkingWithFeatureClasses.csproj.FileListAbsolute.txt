@@ -1,0 +1,12 @@
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.dll
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.pdb
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.dll
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\ESRI.ArcGIS.Editor.xml
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.AssemblyReference.cache
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.frmFeatureClasses.resources
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.GenerateResource.cache
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.csproj.CopyComplete
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.dll
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\obj\Debug\WorkingWithFeatureClasses.pdb
+C:\Users\LENOVO'\source\repos\WorkingWithFeatureClasses\WorkingWithFeatureClasses\bin\Debug\WorkingWithFeatureClasses.esriAddIn
